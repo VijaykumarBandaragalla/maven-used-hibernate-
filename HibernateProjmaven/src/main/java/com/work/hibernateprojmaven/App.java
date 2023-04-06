@@ -1,4 +1,4 @@
-package com.girmiti.HibernateProjmaven;
+package com.work.hibernateprojmaven;
 
 
 /**
